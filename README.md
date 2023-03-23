@@ -1,4 +1,4 @@
-# GTea
+# GraphT-T
 GTea is an online version of GraphTea (www.graphtheorysoftware.com/).
 GraphTea is an open source software, 
 crafted for high quality standards and released under GPL license. 
